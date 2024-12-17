@@ -1,0 +1,1 @@
+print("Tubes akan dimulai")
